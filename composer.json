@@ -1,0 +1,13 @@
+{
+  "name": "williamcastillojr/328/hello",
+  "description": "My first Fat-Free MVC project",
+  "authors": [
+    {
+      "name": "Will Castillo",
+      "email": "castillo.william@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
